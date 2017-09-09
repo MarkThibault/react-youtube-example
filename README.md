@@ -1,13 +1,7 @@
-# ReduxSimpleStarter
+# React YouTube Example
+React app example using the YouTube API. This is the outcome of following Stephen Grinder's course 'Modern React with Redux' @ https://www.udemy.com/react-redux/
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+## Originally clone from ReduxSimpleStarter
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
@@ -16,8 +10,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+## How to run:
 
 ```
 > npm install
